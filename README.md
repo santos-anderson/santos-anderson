@@ -84,7 +84,7 @@
 
 ###
 
-<h3 align="left">🌐Linkedin e Contato:</h3>
+<h3 align="left">🌐Vamos nos Conectar :</h3>
 
 ###
 
