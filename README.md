@@ -12,6 +12,14 @@
 
 ###
 
+<h3 align="left">✔️Objetivos:</h3>
+
+###
+
+<p align="left">Aperfeiçoar habilidades em linguagens de back-end:<br><br>"Aperfeiçoar minhas habilidades em linguagens como Python, Node.js, Java, Ruby e Go, buscando construir APIs eficientes e escaláveis."<br><br>Aprender sobre bancos de dados e otimização:<br><br>"Desenvolver competências avançadas em bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB), com foco em modelagem de dados e otimização de consultas."<br><br>Colaborar em projetos open source:<br><br>"Contribuir para projetos de código aberto que envolvam desenvolvimento back-end, compartilhando meu conhecimento e aprendendo com outros desenvolvedores."<br><br>Implementação de testes e CI/CD:<br><br>"Estudar e implementar práticas de testes automatizados, TDD (Test Driven Development) e integração contínua para garantir a qualidade e a eficiência do código."<br><br>Aprimorar habilidades em frameworks front-end:<br><br>"Dominar frameworks modernos como React, Vue.js ou Angular, para criar interfaces de usuário dinâmicas e responsivas."<br><br>Explorar design responsivo e acessibilidade:<br><br>"Desenvolver aplicações que sejam não apenas responsivas, mas também acessíveis para todos os usuários, aplicando as melhores práticas de UX/UI."<br><br>Ficar atualizado sobre as tendências de design e animação:<br><br>"Estudar e implementar novas tendências em animações CSS, design de interfaces e interação com o usuário para criar experiências visuais envolventes."<br><br>Melhorar a performance de aplicações web:<br><br>"Aprimorar a performance de aplicações front-end, utilizando técnicas como lazy loading, otimização de imagens e minificação de código."</p>
+
+###
+
 <h3 align="left">🤖 Linguagens e Tecnologias:</h3>
 
 ###
@@ -42,7 +50,7 @@
 
 ###
 
-<h3 align="left">Vamos nos Conectar:</h3>
+<h3 align="left">🌐Linkedin e Contato:</h3>
 
 ###
 
@@ -54,6 +62,9 @@
   </a>
   <a href="https://api.whatsapp.com/send?phone=5519994977714&text=Tudo%20bem?%0AObrigado%20por%20entrar%20em%20contato.%0ADeixe%20sua%20mensagem%20que%20assim%20que%20poss%C3%ADvel%20estarei%20respondendo%20voc%C3%AA." target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:santos.anders@gmail.com?subject=Vamos+no+Conectar!!&body=Vamos+no+Conectar!!" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
   </a>
 </div>
 
