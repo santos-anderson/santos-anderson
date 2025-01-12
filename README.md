@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">🌐Linkedin e Contato:</h3>
+<h3 align="left">Vamos nos Conectar:</h3>
 
 ###
 
@@ -56,6 +56,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="40" alt="whatsapp logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">📊 Estatísticas:</h3>
 
 ###
 
