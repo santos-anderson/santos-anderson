@@ -14,7 +14,7 @@
 
 <h3 align="left">✔️Objetivos:</h3>
 
-<p>Busco uma oportunidade como Desenvolvedor Web Junior, onde possa aplicar meus conhecimentos em Front-End e Back-End, contribuindo para o desenvolvimento de soluções eficientes e de qualidade. Com grande entusiasmo pela área de tecnologia, meu objetivo é enfrentar novos desafios e aprimorar minhas habilidades, colaborando com equipes para alcançar os melhores resultados e promover a inovação.</p>
+<p>Busco uma oportunidade como Desenvolvedor Web Junior, onde possa aplicar meus conhecimentos em Front-End e Back-End, contribuindo para o desenvolvimento de soluções eficientes e de qualidade. Meu objetivo é enfrentar novos desafios e aprimorar minhas habilidades, colaborando com equipes para alcançar os melhores resultados e promover a inovação.</p>
 
 
 <h3 align="left">🤖 Linguagens e Tecnologias:</h3>
