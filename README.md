@@ -14,45 +14,6 @@
 
 <h3 align="left">✔️Objetivos:</h3>
 
-###
-
-<table align="left">
-  <tr>
-    <td><strong>Aperfeiçoar habilidades em linguagens de back-end:</strong></td>
-    <td>"Aperfeiçoar minhas habilidades em linguagens como Python, Node.js, Java, Ruby e Go, buscando construir APIs eficientes e escaláveis."</td>
-  </tr>
-  <tr>
-    <td><strong>Aprender sobre bancos de dados e otimização:</strong></td>
-    <td>"Desenvolver competências avançadas em bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB), com foco em modelagem de dados e otimização de consultas."</td>
-  </tr>
-  <tr>
-    <td><strong>Colaborar em projetos open source:</strong></td>
-    <td>"Contribuir para projetos de código aberto que envolvam desenvolvimento back-end, compartilhando meu conhecimento e aprendendo com outros desenvolvedores."</td>
-  </tr>
-  <tr>
-    <td><strong>Implementação de testes e CI/CD:</strong></td>
-    <td>"Estudar e implementar práticas de testes automatizados, TDD (Test Driven Development) e integração contínua para garantir a qualidade e a eficiência do código."</td>
-  </tr>
-  <tr>
-    <td><strong>Aprimorar habilidades em frameworks front-end:</strong></td>
-    <td>"Dominar frameworks modernos como React, Vue.js ou Angular, para criar interfaces de usuário dinâmicas e responsivas."</td>
-  </tr>
-  <tr>
-    <td><strong>Explorar design responsivo e acessibilidade:</strong></td>
-    <td>"Desenvolver aplicações que sejam não apenas responsivas, mas também acessíveis para todos os usuários, aplicando as melhores práticas de UX/UI."</td>
-  </tr>
-  <tr>
-    <td><strong>Ficar atualizado sobre as tendências de design e animação:</strong></td>
-    <td>"Estudar e implementar novas tendências em animações CSS, design de interfaces e interação com o usuário para criar experiências visuais envolventes."</td>
-  </tr>
-  <tr>
-    <td><strong>Melhorar a performance de aplicações web:</strong></td>
-    <td>"Aprimorar a performance de aplicações front-end, utilizando técnicas como lazy loading, otimização de imagens e minificação de código."</td>
-  </tr>
-</table>
-
-
-###
 
 <h3 align="left">🤖 Linguagens e Tecnologias:</h3>
 
