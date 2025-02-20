@@ -14,9 +14,7 @@
 
 <h3 align="left">✔️Objetivos:</h3>
 
-<p>Meu objetivo é entregar soluções inovadoras e de alto impacto, sempre com o compromisso de superar as expectativas dos clientes e usuários.
-
-.</p>
+<p>Meu objetivo é entregar soluções inovadoras e de alto impacto, sempre com o compromisso de superar as expectativas dos clientes e usuários.</p>
 
 
 <h3 align="left">🤖 Linguagens e Tecnologias:</h3>
