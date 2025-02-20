@@ -8,13 +8,15 @@
 
 ###
 
-<p align="left">Olá! Meu nome é Anderson Santos e sou um desenvolvedor Junior com grande entusiasmo pela área de tecnologia e desenvolvimento web. Estou em busca de novos desafios para aplicar e expandir meus conhecimentos tanto em Front-End quanto em Back-End, sempre buscando entregar soluções eficazes e de qualidade.</p>
+<p align="left">Olá! Meu nome é Anderson Santos e sou um desenvolvedor Java Pleno com sólida experiência na área de tecnologia e desenvolvimento de software. Tenho ampla vivência no desenvolvimento de soluções robustas e escaláveis, utilizando Java e frameworks modernos, tanto para aplicações Back-End quanto para integração com Front-End.<br>Com um foco constante em qualidade e eficiência, busco sempre otimizar processos e melhorar a performance dos sistemas que desenvolvo.</br></p>
 
 ###
 
 <h3 align="left">✔️Objetivos:</h3>
 
-<p>Busco uma oportunidade como Desenvolvedor Web Junior, onde possa aplicar meus conhecimentos em Front-End e Back-End, contribuindo para o desenvolvimento de soluções eficientes e de qualidade. Meu objetivo é enfrentar novos desafios e aprimorar minhas habilidades, colaborando com equipes para alcançar os melhores resultados e promover a inovação.</p>
+<p>Meu objetivo é entregar soluções inovadoras e de alto impacto, sempre com o compromisso de superar as expectativas dos clientes e usuários.
+
+.</p>
 
 
 <h3 align="left">🤖 Linguagens e Tecnologias:</h3>
