@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Olá! Meu nome é Anderson Santos e sou um desenvolvedor iniciante com grande entusiasmo pela área de tecnologia e desenvolvimento web. Estou em busca de novos desafios para aplicar e expandir meus conhecimentos tanto em Front-End quanto em Back-End, sempre buscando entregar soluções eficazes e de qualidade.</p>
+<p align="left">Olá! Meu nome é Anderson Santos e sou um desenvolvedor Junior com grande entusiasmo pela área de tecnologia e desenvolvimento web. Estou em busca de novos desafios para aplicar e expandir meus conhecimentos tanto em Front-End quanto em Back-End, sempre buscando entregar soluções eficazes e de qualidade.</p>
 
 ###
 
