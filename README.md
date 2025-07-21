@@ -6,41 +6,27 @@
 
 <h2 align="left">👨‍💻 Anderson Santos</h2>
 
+<p align="left">Olá! Meu nome é Anderson Santos, sou um desenvolvedor Back-End Junior com foco em Java. Tenho grande interesse por arquitetura de sistemas, APIs RESTful, bancos de dados relacionais e boas práticas de desenvolvimento. Busco constantemente aprimorar minhas habilidades técnicas e contribuir para soluções robustas, escaláveis e eficientes.</p>
 ###
 
-<p align="left">Olá! Meu nome é Anderson Santos e sou um desenvolvedor Junior com grande entusiasmo pela área de tecnologia e desenvolvimento web. Estou em busca de novos desafios para aplicar e expandir meus conhecimentos tanto em Front-End quanto em Back-End, sempre buscando entregar soluções eficazes e de qualidade.</p>
-
-###
-
-<h3 align="left">✔️Objetivos:</h3>
-
-<p>Busco uma oportunidade como Desenvolvedor Web Junior, onde possa aplicar meus conhecimentos em Front-End e Back-End, contribuindo para o desenvolvimento de soluções eficientes e de qualidade. Meu objetivo é enfrentar novos desafios e aprimorar minhas habilidades, colaborando com equipes para alcançar os melhores resultados e promover a inovação.</p>
-
+<h3 align="left">✔️ Objetivo Profissional: </h3> <p>Atuar como Desenvolvedor Back-End Java Junior, integrando equipes técnicas onde eu possa aplicar e aprofundar meus conhecimentos em Java, Spring Boot, banco de dados, versionamento com Git, e integração de sistemas. Estou em busca de desafios que me permitam crescer profissionalmente, agregar valor aos projetos e colaborar ativamente na entrega de soluções de qualidade.</p>
 
 <h3 align="left">🤖 Linguagens e Tecnologias:</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+
+<h3 align="left">🛠️ Tecnologias e Ferramentas: </h3> <p align="left"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/> </p>  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
