@@ -7,7 +7,7 @@
 <h2 align="left">👨‍💻 Anderson Santos</h2>
 
 <p align="left">Olá! Meu nome é Anderson Santos, sou um desenvolvedor Back-End Junior com foco em Java. Tenho grande interesse por arquitetura de sistemas, APIs RESTful, bancos de dados relacionais e boas práticas de desenvolvimento. Busco constantemente aprimorar minhas habilidades técnicas e contribuir para soluções robustas, escaláveis e eficientes.</p>
-###
+
 
 <h3 align="left">✔️ Objetivo Profissional: </h3> <p>Atuar como Desenvolvedor Back-End Java Junior, integrando equipes técnicas onde eu possa aplicar e aprofundar meus conhecimentos em Java, Spring Boot, banco de dados, versionamento com Git, e integração de sistemas. Estou em busca de desafios que me permitam crescer profissionalmente, agregar valor aos projetos e colaborar ativamente na entrega de soluções de qualidade.</p>
 
