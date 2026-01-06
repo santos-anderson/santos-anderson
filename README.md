@@ -1,80 +1,85 @@
-<h1 align="center">Bem Vindo ao Meu Github!👋😃</h1>
-
-###
+<h1 align="center">Bem-vindo ao Meu GitHub! 👋😃</h1>
 
 <br clear="both">
 
 <h2 align="left">👨‍💻 Anderson Santos</h2>
 
-<p align="left">Olá! Meu nome é Anderson Santos, sou um desenvolvedor Back-End Junior com foco em Java. Tenho grande interesse por arquitetura de sistemas, APIs RESTful, bancos de dados relacionais e boas práticas de desenvolvimento. Busco constantemente aprimorar minhas habilidades técnicas e contribuir para soluções robustas, escaláveis e eficientes.</p>
+<p align="left">
+Olá! Meu nome é Anderson Santos, sou um desenvolvedor Back-End Junior com foco em Java e Golang.
+Tenho grande interesse por arquitetura de sistemas, APIs RESTful, bancos de dados relacionais
+e boas práticas de desenvolvimento. Busco constantemente aprimorar minhas habilidades técnicas
+e contribuir para soluções robustas, escaláveis e eficientes.
+</p>
 
+<h3 align="left">✔️ Objetivo Profissional</h3>
+<p align="left">
+Atuar como Desenvolvedor Back-End Java Junior, integrando equipes técnicas onde eu possa aplicar
+e aprofundar meus conhecimentos em Java, Spring Boot, banco de dados, versionamento com Git
+e integração de sistemas. Busco desafios que me permitam crescer profissionalmente e agregar
+valor aos projetos.
+</p>
 
-<h3 align="left">✔️ Objetivo Profissional: </h3> <p>Atuar como Desenvolvedor Back-End Java Junior, integrando equipes técnicas onde eu possa aplicar e aprofundar meus conhecimentos em Java, Spring Boot, banco de dados, versionamento com Git, e integração de sistemas. Estou em busca de desafios que me permitam crescer profissionalmente, agregar valor aos projetos e colaborar ativamente na entrega de soluções de qualidade.</p>
+---
 
-<h3 align="left">🤖 Linguagens e Tecnologias:</h3>
-
-###
+<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
 
 <div align="left">
-
-<h3 align="left">🛠️ Tecnologias e Ferramentas: </h3> <p align="left"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/> </p>  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </div>
 
-###
+---
 
-<h3 align="left">🌐Vamos nos Conectar :</h3>
-
-###
-
-<br clear="both">
+<h3 align="left">🌐 Vamos nos conectar</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/anderssantos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5519994977714&text=Tudo%20bem?%0AObrigado%20por%20entrar%20em%20contato.%0ADeixe%20sua%20mensagem%20que%20assim%20que%20poss%C3%ADvel%20estarei%20respondendo%20voc%C3%AA." target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="40" alt="whatsapp logo"  />
+  <a href="https://api.whatsapp.com/send?phone=5519994977714" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="40" alt="WhatsApp"/>
   </a>
-  <a href="mailto:santos.anders@gmail.com?subject=Vamos+no+Conectar!!&body=Vamos+no+Conectar!!" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
+  <a href="mailto:santos.anders@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="Gmail"/>
   </a>
 </div>
 
-###
+---
 
-<h3 align="left">📊 Estatísticas:</h3>
-
-###
+<h3 align="left">📊 Estatísticas do GitHub</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santos-anderson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santos-anderson&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="130" alt="languages graph"  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=santos-anderson&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
+    height="150"
+    alt="GitHub stats"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-anderson&layout=compact&langs_count=5&theme=dracula&hide_border=false"
+    height="130"
+    alt="Top languages"
+  />
 </div>
 
-###
+---
 
 <img src="https://raw.githubusercontent.com/santos-anderson/santos-anderson/output/snake.svg" alt="Snake animation" />
 
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=santos-anderson.santos-anderson&left_color=darkolivegreen&right_color=antiquewhite"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=santos-anderson.santos-anderson&left_color=darkolivegreen&right_color=antiquewhite"/>
 </div>
 
-###
 
 
