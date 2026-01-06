@@ -14,7 +14,7 @@ e contribuir para soluções robustas, escaláveis e eficientes.
 <h3 align="left">✔️ Objetivo Profissional</h3>
 <p align="left">
 Atuar como Desenvolvedor Back-End Java Junior, integrando equipes técnicas onde eu possa aplicar
-e aprofundar meus conhecimentos em Java, Spring Boot, banco de dados, versionamento com Git
+e aprofundar meus conhecimentos em Java, Golang, Spring Boot, banco de dados, versionamento com Git
 e integração de sistemas. Busco desafios que me permitam crescer profissionalmente e agregar
 valor aos projetos.
 </p>
