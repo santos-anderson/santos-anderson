@@ -41,9 +41,10 @@ valor aos projetos.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" height="40" alt="Swagger"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40" alt="GoLand (JetBrains)"/>
-
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
 
 
 </div>
@@ -65,16 +66,12 @@ valor aos projetos.
 </div>
 
 ---
+
 ### 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=santos-anderson&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santos-anderson&layout=compact&langs_count=5&theme=dracula)
-
-![Windsurf](https://img.shields.io/badge/Windsurf-IDE-blue)
-
-![Cursor](https://img.shields.io/badge/Cursor-IDE-purple)
-
 
 
 ---
