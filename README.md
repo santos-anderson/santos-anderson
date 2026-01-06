@@ -45,6 +45,11 @@ valor aos projetos.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" height="40" alt="JUnit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mockito/mockito-original.svg" width="40" height="40" alt="Mockito"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testcontainers/testcontainers-original.svg" width="40" height="40" alt="Testcontainers"/>
+
+
 
 
 </div>
