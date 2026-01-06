@@ -56,9 +56,9 @@ valor aos projetos.
 ---
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santos-anderson&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=santos-anderson&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santos-anderson&layout=compact&langs_count=5&theme=dracula)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santos-anderson&layout=compact&langs_count=5&theme=dracula)
 
 
 ---
