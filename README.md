@@ -21,7 +21,7 @@ valor aos projetos.
 
 ---
 
-<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
+<h3 align="left"> 🛠️Tecnologias Utilizadas:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
