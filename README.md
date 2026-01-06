@@ -54,22 +54,12 @@ valor aos projetos.
 </div>
 
 ---
+### 📊 Estatísticas do GitHub
 
-<h3 align="left">📊 Estatísticas do GitHub</h3>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santos-anderson&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=santos-anderson&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
-    height="150"
-    alt="GitHub stats"
-  />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santos-anderson&layout=compact&langs_count=5&theme=dracula)
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-anderson&layout=compact&langs_count=5&theme=dracula&hide_border=false"
-    height="130"
-    alt="Top languages"
-  />
-</div>
 
 ---
 
